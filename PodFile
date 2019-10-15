@@ -1,0 +1,7 @@
+platform :ios,'8.0'
+target "IotTest" do
+pod 'AFNetworking'
+pod 'MQTTClient'
+pod 'ReactiveObjC'
+pod 'YYModel'
+end
